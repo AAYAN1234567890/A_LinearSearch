@@ -29,8 +29,9 @@
     public static void printArray(int print[]) {
         for (int i = 0; i < print.length;i++) {
             System.out.print(print[i] + " ");
-        //System.out.println();
+ 
         }
+        System.out.println();
     }
 
     public static void main(String[] args) {
